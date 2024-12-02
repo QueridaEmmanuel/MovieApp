@@ -23,16 +23,16 @@ The following additional features are implemented:
  Implemented a polished app theme for a better user experience.
  Included error handling for network requests (e.g., displaying a user-friendly message when the API is unreachable).
 Video Walkthrough
+
 <div>
     <a href="https://www.loom.com/share/3b9b4239a7c04b47a71cc416d79e0d2c">
-      
     </a>
     <a href="https://www.loom.com/share/3b9b4239a7c04b47a71cc416d79e0d2c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b9b4239a7c04b47a71cc416d79e0d2c-a54da3d602516e54-full-play.gif">
     </a>
   </div>
-Kap for macOS
-ScreenToGif for Windows
+
+
 
 Notes
 The app faced challenges during development due to:
